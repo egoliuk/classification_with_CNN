@@ -30,3 +30,10 @@
 Завдання виконане в рамках проходження офлайн курсу "Machine Learning"
 від ISD та SOLVVE (див.
 [GitHub](https://github.com/solvve/ml_course/blob/master/cnn/CNN_application.ipynb))
+
+## 4. Classify images in CIFAR-10
+
+Завдання навчити нейромережу визначати зображення з набору даних
+CIFAR-10.
+
+Джерело завдання - курс "ML101 Машинне навчання" на [https://prometheus.org.ua/](https://courses.prometheus.org.ua/courses/IRF/ML101/2016_T3/about)
